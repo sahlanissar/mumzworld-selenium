@@ -10,4 +10,4 @@
 
 ## How to run
 - setup: Install npm and node
-- run test: node checout.js 
+- run test: node checkout.js 
